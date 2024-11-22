@@ -60,6 +60,7 @@ Este projeto combina sensores ambientais, automação e IoT para monitorar vari�
 
 ### 🎛️ **Diagrama Esquemático**
 
+![Exemplo de Imagem](imgsProjeto/circuito.png)
 
 ### 📋 **Lista de Componentes**
 
