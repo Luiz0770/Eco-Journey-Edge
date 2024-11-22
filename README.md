@@ -59,7 +59,7 @@ Este projeto combina sensores ambientais, automação e IoT para monitorar vari�
 ## 🔌 **Circuito e Componentes**
 
 ### 🎛️ **Diagrama Esquemático**
-> *(Adicione aqui uma imagem do diagrama de montagem do circuito, caso tenha)*
+
 
 ### 📋 **Lista de Componentes**
 
@@ -159,7 +159,7 @@ Este projeto combina sensores ambientais, automação e IoT para monitorar vari�
 
 ### 📈 **Node-RED Dashboard**
 
-> *(Adicione aqui uma imagem do dashboard ou um exemplo visual.)*
+![Exemplo de Imagem]([https://meu-link-da-imagem.com/imagem.png](https://cdn.discordapp.com/attachments/769767224911069236/1309346487146385428/dashboard.png?ex=67413f71&is=673fedf1&hm=8fa7a8e2902e0ef50a147f9050b5afc476ecc29bd7dc5a31ab6adde1cd107455&))
 
 ---
 
