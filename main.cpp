@@ -81,6 +81,7 @@ void loop() {
   }
   else if (ldr > 600 || (temperatura > 22 && temperatura <= 28)) {
     // Nível médio de sustentabilidade (uso moderado de energia)
+    tone(buzzer, 1500, 2000);
     digitalWrite(led_Vermelho, LOW);
     digitalWrite(led_Amarelo, HIGH);
     digitalWrite(led_Azul, LOW);
