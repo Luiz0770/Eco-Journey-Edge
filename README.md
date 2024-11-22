@@ -99,7 +99,7 @@ Este projeto combina sensores ambientais, automação e IoT para monitorar vari�
    - `LiquidCrystal_I2C`
 
 2. **Carregue o código:**
-   - Abra o código `codigo_arduino.ino` no Arduino IDE.
+   - Abra o código `main.cpp` no Arduino IDE.
    - Conecte o Arduino ao computador.
    - Faça o upload para a placa.
 
@@ -115,12 +115,12 @@ Este projeto combina sensores ambientais, automação e IoT para monitorar vari�
    ```
 
 2. **Configure o fluxo:**
-   - Importe o fluxo `fluxo_node_red.json` no Node-RED:
+   - Importe o fluxo `fluxo.json` no Node-RED:
      - Clique no menu no canto superior direito do Node-RED.
      - Escolha a opção **Import > Clipboard**.
-     - Cole o conteúdo do arquivo `fluxo_node_red.json`.
+     - Cole o conteúdo do arquivo `fluxo.json`.
      - Clique em **Import**.
-   - Ajuste o nó **MQTT IN** para o tópico configurado no Arduino (`testtopic/gs`).
+   - Ajuste o nó **MQTT IN** para o tópico configurado no Arduino (`ecojourney/dados`).
 
 2. **Acesse o Dashboard:**
    - No navegador, abra: `http://localhost:1880/ui`.
